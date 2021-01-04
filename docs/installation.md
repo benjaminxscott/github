@@ -35,7 +35,7 @@ That gives us a chance to respond to the issue, determine if it's serious enough
 
 If you're using nightly builds, you can have access to fixes and improvements (often) within a few weeks to a month. But, it can take me some time to tag releases and get them into Atom core sometimes. If you're really can't wait, and you want to live on the very, very edge, you can run the absolute latest code as soon as it's merged.
 
-1. First, install Atom's build requirements. You don't have to clone, bootstrap and build all of Atom to do this - just install the packages and dependencies listed in the "Building" section on [the flight manual documentation](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/) for your operating system.
+1. First, install Atom's build requirements. You don't have to clone, bootstrap and build all of Atom to do this - just install the packages and dependencies listed in the "Building" section on [the flight manual documentation](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#building) for your operating system.
 2. Second, run the following command at your terminal or command line prompt:
    ```
    apm install atom/github
